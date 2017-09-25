@@ -1,0 +1,5 @@
+venv/
+.idea/
+__pycache__/
+project/local_settings.py
+*.sqlite3

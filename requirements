@@ -1,0 +1,5 @@
+django==1.11.5
+djangorestframework==3.6.4
+sw-python-viber-devino==0.0.1
+jsonfield==2.0.2
+django-rest-swagger==2.1.2
